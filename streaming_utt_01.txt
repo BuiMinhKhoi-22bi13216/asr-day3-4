@@ -1,0 +1,9 @@
+Clip utt_01
+partial 1.50s | EM
+partial 2.10s | EM ĐÃ CHƯA KỊP
+partial 2.80s | EM ĐÃ CHƯA KỊP ĐÁP
+partial 3.40s | EM ĐÃ CHƯA KỊP ĐÁP THÌ DO PHẢI
+partial 4.00s | EM ĐÃ CHƯA KỊP ĐÁP THÌ DO PHẢI TRÁNH MỘT
+partial 4.70s | EM ĐÃ CHƯA KỊP ĐÁP THÌ DO PHẢI TRÁNH MỘT XE ĐI NGƯỢC
+partial 5.30s | EM ĐÃ CHƯA KỊP ĐÁP THÌ DO PHẢI TRÁNH MỘT XE ĐI NGƯỢC CHIỀU
+final | EM ĐÃ CHƯA KỊP ĐÁP THÌ DO PHẢI TRÁNH MỘT XE ĐI NGƯỢC CHIỀU

@@ -1,0 +1,13 @@
+# Môi trường Python và cache
+.venv/
+__pycache__/
+.pytest_cache/
+.ruff_cache/
+
+# Model tải về
+/sherpa-onnx-zipformer-*/
+/zipformer-streaming/
+/zipformer-offline.tar.bz2
+
+# Bộ audio lưu riêng
+/clips/

@@ -1,0 +1,13 @@
+﻿id,configuration,path,reference,hypothesis
+utt_01,zipformer_streaming,clips/common_voice_vi_25722042.wav,Anh ta chưa kịp đáp thì do phải tránh Một xe đi ngược chiều,EM ĐÃ CHƯA KỊP ĐÁP THÌ DO PHẢI TRÁNH MỘT XE ĐI NGƯỢC CHIỀU
+utt_02,zipformer_streaming,clips/common_voice_vi_31156073.wav,Nếu như còn khiến cho người đàn ông này yêu mẹ,NẾU NHƯ CÒN KHIẾN CHO NGƯỜI ĐÀN ÔNG NÀY YÊU MẸ
+utt_03,zipformer_streaming,clips/common_voice_vi_23406197.wav,Phụ nữ mà uống nhiều cà phê là không có tốt cho da,PHỤ NỮ MÀ UỐNG NHIỀU CÀ PHÊ LÀ KHÔNG TỐT CHO DA
+utt_04,zipformer_streaming,clips/common_voice_vi_28565018.wav,Nó bị con quỷ nước giải cho cơ thể siêu thoát được,NÓ BỊ CON QUỶ NƯỚC GIẢI CHO CƠ THỂ SIÊU THOÁT ĐƯỢC
+utt_05,zipformer_streaming,clips/common_voice_vi_23078721.wav,Vậy mà bạn chết chưa giỗ đầu mà la liếm với chồng của bạn,VẬY MÀ BẠN CHẾT CHƯA DỖ ĐẦU MÀ LA LIẾM VỚI CHỒNG CỦA BẠN
+utt_06,zipformer_streaming,clips/common_voice_vi_31450202.wav,Anh ta bỗng nhìn thấy Hà Ni với ánh mắt không bình thường,ANH TA BỖNG NHÌN THẤY HÀ NI VỚI ÁNH MẮT KHÔNG BÌNH THƯỜNG
+utt_07,zipformer_streaming,clips/common_voice_vi_24458299.wav,Bạn bè lâu năm mới gặp chưa gì đã về,BẠN BÈ LÂU NĂM MỚI GẶP CHƯA GÌ ĐÃ VỀ
+utt_08,zipformer_streaming,clips/common_voice_vi_23669906.wav,Ngày tháng nào xa ngái,NGÀY THÁNG NÀO XA NGÁI
+utt_09,zipformer_streaming,clips/common_voice_vi_23847382.wav,Cả nhà em và Thảo cũng xuống xem thầy bói ở dưới huyện,CẢ NHÀ EM VÀ THẢO CŨNG XUỐNG XEM THẦY BÓI Ở DƯỚI HUYỆN
+utt_10,zipformer_streaming,clips/common_voice_vi_22008973.wav,Thì chắc chắn con gái nhà cô sẽ gặp vận lớn,THÌ CHẮC CHẮN CON GÁI NHÀ CÔ SẼ GẶP VẬN LỚN
+utt_11,zipformer_streaming,clips/common_voice_vi_24097244.wav,Phải rồi ai tới số thì mới chết,PHẢI RỒI AI TỚI SỐ THÌ MỚI CHẾT
+utt_12,zipformer_streaming,clips/common_voice_vi_26202325.wav,"Sửa lỗi không gõ được tiếng Việt trong Word, excel, firefox, chrome",SỬA LỖI KHÔNG GÕ ĐƯỢC TIẾNG VIỆT TRONG WARSAW FIX CRO
